@@ -1,0 +1,6 @@
+opencv-python
+python-ffmpeg
+ipywidgets
+matplotlib
+numpy
+pandas
